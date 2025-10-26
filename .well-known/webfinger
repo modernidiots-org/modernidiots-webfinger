@@ -1,0 +1,9 @@
+{
+  "subject": "acct:sophiasamsung420@modernidiots.org",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://github.com/login/oauth"
+    }
+  ]
+}
